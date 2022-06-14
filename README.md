@@ -1,5 +1,5 @@
 # pix2pix繪圖模型訓練
-pix2pix繪圖模型訓練
+
 ## Credits: 該模型是基於 [affinelayer's pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) 的程式進行訓練，該程式由[Christopherhesse](https://github.com/christopherhesse)提供
 
 ## 訓練程式下載及資料放置
