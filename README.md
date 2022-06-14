@@ -7,7 +7,7 @@ Step 1: 請先點選連結[pix2pix-tensorflow](https://github.com/affinelayer/pi
 
 Step 2: 解壓縮後點選進入pix2pix-tensorflow-master資料夾後先新設一個facades資料夾(若不想依照以下檔名更改請自行於colab調整)，點選進入後設定三個資料夾：train，test，val
 
-Step 3: 下載訓練資料將裡面的圖片放入train資料夾，若要進行模型測試，則留下10到15張照片放置到val資料夾
+Step 3: 下載訓練資料解壓縮將裡面的圖片放入train資料夾，若要進行模型測試，則留下10到15張照片放置到val資料夾
 
 Step 4: 若想自行訓練自己的資料，請將照片及色塊自行組合成像訓練資料的圖片對，圖片尺寸為64的倍數，或參考[pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow)資料製作方式
 
